@@ -1,5 +1,5 @@
 # cpp_basic
 
-cpp grammer and data structures   
+cpp syntax and data structures   
 
 EE538 course work
